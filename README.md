@@ -1,6 +1,6 @@
 ## Theme preview for Discord themes
 #### Usage:  
-Go to [https://Nates-World-Projects.github.io/ThemePreview/?file=(DIRECT LINK)](https://Nates-World-Projects.github.io/ThemePreview/?file)  
+Go to [https://Nates-World-Projects.github.io/Theme-Preview/?file=(DIRECT LINK)](https://Nates-World-Projects.github.io/Theme-Preview/?file)  
 Paste your direct web hosted css url in place if (DIRECT LINK)
 
 - - -
@@ -24,5 +24,5 @@ This will not: `https://Nates-World-Projects.github.io/Native`
 
 #### End result:
 ```
-https://Nates-World-Projects.github.io/ThemePreview/?file=https://Nates-World-Projects.github.io/Native/src/source.css
+https://Nates-World-Projects.github.io/Theme-Preview/?file=https://Nates-World-Projects.github.io/Native/src/source.css
 ```

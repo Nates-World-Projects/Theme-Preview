@@ -1,13 +1,13 @@
 ## Theme preview for Discord themes
 #### Usage:  
-Go to [https://gibbu.github.io/ThemePreview/?file=(DIRECT LINK)](https://gibbu.github.io/ThemePreview/?file)  
+Go to [https://Nates-World-Projects.github.io/ThemePreview/?file=(DIRECT LINK)](https://Nates-World-Projects.github.io/ThemePreview/?file)  
 Paste your direct web hosted css url in place if (DIRECT LINK)
 
 - - -
 
 #### Direct link example:  
-This will work: `https://discordstyles.github.io/Slate/Slate.theme.css`  
-This will not: `https://github.com/DiscordStyles/Slate`
+This will work: `https://Nates-World-Projects.github.io/Native/src/source.css`  
+This will not: `https://Nates-World-Projects.github.io/Native`
 
 - - -
 
@@ -24,5 +24,5 @@ This will not: `https://github.com/DiscordStyles/Slate`
 
 #### End result:
 ```
-https://gibbu.github.io/ThemePreview/?file=https://discordstyles.github.io/MinimalCord/MinimalCord.theme.css|https://discordstyles.github.io/RadialStatus/RadialStatus.theme.css&lightTheme=true
+https://Nates-World-Projects.github.io/ThemePreview/?file=https://Nates-World-Projects.github.io/Native/src/source.css
 ```
